@@ -1,0 +1,11 @@
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\bin\Debug\TaxiKosten.exe.config
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\bin\Debug\TaxiKosten.exe
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\bin\Debug\TaxiKosten.pdb
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.Form1.resources
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.Properties.Resources.resources
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.csproj.GenerateResource.cache
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.exe
+C:\Users\franc\Documents\School\School\Periode 4\C#\C-sharp-eindopdracht\TaxiKosten\TaxiKosten\obj\Debug\TaxiKosten.pdb
