@@ -17,9 +17,18 @@ namespace TaxiKosten
             InitializeComponent();
         }
 
-        private void butNaamBedrijf_Click(object sender, EventArgs e)
+        //een functie die een timer start voor de progressiebalk in het laadscherm.
+        private void timer1_Tick(object sender, EventArgs e)
         {
-            naamBedrijf.Text = inputNaamBedrijf.Text;
+            panel2.Width += 3;
+
+            if (panel2.Width >= 400)
+            {
+                timer1.Stop();
+                Form2 form2 = new Form2();
+                form2.Show();
+                this.Hide();
+            }
         }
     }
 }
